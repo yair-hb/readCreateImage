@@ -1,4 +1,5 @@
 import cv2
+import os 
 
 path = r'C:\Users\OptiPlex\Desktop\TODO YAIR\PYTHON 3 openCV\readCreateImage\im.jpg'
 imagen = cv2.imread(path, 0)
